@@ -1,0 +1,22 @@
+{
+    "args": {},
+    "data": "String",
+    "files": {},
+    "form": {},
+    "headers": {
+        "x-forwarded-proto": "Sring",
+        "x-forwarded-port": "integer",
+        "host": "Sring",
+        "x-amzn-trace-id": "Sring",
+        "content-length": "integer",
+        "content-type": "Sring",
+        "user-agent": "Sring",
+        "accept": "Sring",
+        "cache-control": "Sringe",
+        "postman-token": "Sring",
+        "accept-encoding": "Sring",
+        "cookie": "Sring"
+    },
+    "json": null,
+    "url": "Sring"
+}
